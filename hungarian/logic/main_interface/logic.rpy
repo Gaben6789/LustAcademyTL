@@ -4,5 +4,5 @@ translate hungarian strings:
 
     # game/logic/main_interface/logic.rpy:262
     old "Club Enter"
-    new ""
+    new "Klub bejárata"
 
